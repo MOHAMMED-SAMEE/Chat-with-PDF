@@ -1,0 +1,11 @@
+ streamlit
+ google-generativeai
+ python-dotenv
+ PyPDF2  PdfReader
+ langchain.text_splitter  RecursiveCharacterTextSplitter
+ os
+ langchain_google_genai  GoogleGenerativeAIEmbeddings
+ langchain.vectorstores  FAISS
+ langchain_google_genai  ChatGoogleGenerativeAI
+ angchain.chains.question_answering load_qa_chain
+ langchain.prompts PromptTemplate
